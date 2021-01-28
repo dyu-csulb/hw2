@@ -1,0 +1,43 @@
+body {
+    font-family: 'Calibri';
+}
+
+p {
+    font-family: 'Calibri';
+}
+
+h1, h2 {
+    color: red;
+}
+
+.div-pad {
+    padding: 10px;
+}
+
+.my-img{
+    height: 400px;
+    width: 500px;
+}
+
+table th, td{
+    border: solid 1px black ;
+}
+tr:hover {
+    background-color: lightblue;
+}
+
+tr:hover:nth-child(even) {
+    background-color: lightblue;
+}
+
+tr:nth-child(even) {
+    background-color: lightgray;
+}
+
+a:visited {
+    color: green;
+}
+
+a {
+    color: red;
+}
