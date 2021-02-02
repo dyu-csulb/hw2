@@ -41,3 +41,11 @@ a:visited {
 a {
     color: red;
 }
+
+.my-textbox{
+    width: 250px !important;
+}
+
+.row-padding {
+    padding-top:10px;
+}
